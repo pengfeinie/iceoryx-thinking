@@ -31,7 +31,7 @@ make
 
 ## Expected Output
 
-### 1.
+### 1. 
 
 <video width="700" controls>
 	<source src="/en/latest/_static/icehello01.mp4" />
@@ -39,7 +39,9 @@ make
 
 ### 2.
 
-
+<video width="700" controls>
+	<source src="/en/latest/_static/icehello02.mp4" />
+</video>
 
 
 
