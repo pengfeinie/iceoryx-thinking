@@ -32,7 +32,8 @@ release = 'v0.0.1'
 # ones.
 extensions = [
      'recommonmark',
-     'sphinx_markdown_tables'
+     'sphinx_markdown_tables',
+     'sphinxcontrib.video'
  ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -55,3 +56,12 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# If true, links to the reST sources are added to the pages.
+#
+#html_show_sourcelink = False
+
+# If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
+#
+html_show_sphinx = False
+
