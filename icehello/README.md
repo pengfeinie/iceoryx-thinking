@@ -39,7 +39,7 @@ make
 
 When running the example in a linux environment one can observe the lock files `/tmp/roudi.lock`, `iox-cpp-publisher-helloworld.lock` and `iox-cpp-subscriber-helloworld.lock`
 
-![](D:\sourcecode\myself\iceoryx-thinking\source\quick_start\icehello\images\2022-07-10_133815.png)
+![](https://iceoryx-thinking.readthedocs.io/en/latest/_images/2022-07-10_133815.png)
 
 
 
