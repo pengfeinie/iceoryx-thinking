@@ -7,7 +7,9 @@ It provides a publisher and a subscriber application.
 
 ## Expected Output
 
-<video src="https://iceoryx-thinking.readthedocs.io/en/latest/_static/icehello01.mp4"></video>
+[![asciicast](https://asciinema.org/a/407357.svg)](https://iceoryx-thinking.readthedocs.io/en/latest/_static/icehello01.mp4)
+
+
 
 ## Code walkthrough
 
