@@ -50,7 +50,16 @@ make
 	<source src="/en/latest/_static/icehello02.mp4" />
 </video>
 
-## 6. Reference：
+
+### 6. Shared Access to File Locks
+
+When running the example in a linux environment one can observe the lock files `/tmp/roudi.lock`, `iox-cpp-publisher-helloworld.lock` and `iox-cpp-subscriber-helloworld.lock`
+
+![](images/2022-07-10_133815.png)
+
+
+
+## 7. Reference：
 
 1. [https://github.com/eclipse-iceoryx/iceoryx/tree/v2.0.0/iceoryx_examples/icehello](https://github.com/eclipse-iceoryx/iceoryx/tree/v2.0.0/iceoryx_examples/icehello)
 2. [https://iceoryx.io/v2.0.0/examples/icehello/](https://iceoryx.io/v2.0.0/examples/icehello/)
