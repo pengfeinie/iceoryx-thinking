@@ -63,3 +63,4 @@ When running the example in a linux environment one can observe the lock files `
 
 1. [https://github.com/eclipse-iceoryx/iceoryx/tree/v2.0.0/iceoryx_examples/icehello](https://github.com/eclipse-iceoryx/iceoryx/tree/v2.0.0/iceoryx_examples/icehello)
 2. [https://iceoryx.io/v2.0.0/examples/icehello/](https://iceoryx.io/v2.0.0/examples/icehello/)
+3. [https://www.apex.ai/post/eclipse-iceoryx-blueberry-speeds-up-autosar-and-ros-2](https://www.apex.ai/post/eclipse-iceoryx-blueberry-speeds-up-autosar-and-ros-2)
